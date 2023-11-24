@@ -15,3 +15,7 @@ RAG takes an input and retrieves a set of relevant/supporting documents given a 
 2. The saved model is used for inference - [bert-with-wikipedia-rag.ipynb](https://www.kaggle.com/code/noorrabih/bert-with-wikipedia-rag)
 3. Kfolds is performed on Huggingface BERT and is finetuned on our dataset and the best model(of all folds) is saved - [kfolds-of-huggingface-bert-with-wikipedia-rag.ipynb](https://www.kaggle.com/code/noorrabih/kfolds-of-huggingface-bert-with-wikipedia-rag)
 4. The saved model(from3) is used for inference - [bert-with-wikipedia-rag.ipynb](https://www.kaggle.com/code/noorrabih/bert-with-wikipedia-rag)
+
+# GPT3.5
+
+gpt3.5 API was used, and the predictions are in gpt3.5_pred.csv
