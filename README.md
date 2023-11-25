@@ -29,3 +29,7 @@ The process for getting suppoting information is the same as for BERT and other 
 # GPT3.5
 
 gpt3.5 API was used, and the predictions are in gpt3.5_pred.csv
+
+# Llama 2 7b chat
+
+Llama 2 7b chat api was used. Notebooks for the inference process are llama-api.ipynb and llama-api-with-context.ipynb for inferencing without and with RAG context respectively. The predictions are in llama-2-7b-answers.csv and llama-2-7b-answers-context.csv
