@@ -37,14 +37,14 @@ Llama 2 7b chat api was used. Notebooks for the inference process are llama-api.
 
 # LSTM
 
-1. LSTM multiclass classification without rag - [lstm-without-rag.ipynb] (https://www.kaggle.com/code/fathinahizzati/lstm-1/notebook)
+1. LSTM multiclass classification without rag - [lstm-without-rag.ipynb] (https://www.kaggle.com/code/fathinahizzati/lstm-1?scriptVersionId=151435997)
 2. LSTM multiclass classification with rag - [lstm-with-rag.ipynb] (https://www.kaggle.com/fat2321321/lstm-3)
 3. LSTM for next word inference - [lstm-next-token-pred.ipynb] (https://www.kaggle.com/tinaaaaaaaaa/lstm-2-2)
 
 
 # Platypus
 1. Platypus inference without wikipedia rag - [platypus2-70b-without-wikipedia-rag.ipynb] (https://www.kaggle.com/code/tinaaaaaaaaa/platypus2-70b-without-wikipedia-rag) 
-2. Platypus inference with wikipedia rag - [platypus2-70b-with-wikipedia-rag.ipynb] ()
+2. Platypus inference with wikipedia rag - [platypus2-70b-with-wikipedia-rag.ipynb] (https://www.kaggle.com/code/fathinahizzati/platypus2-70b-with-wikipedia-rag)
 
 # Bag-of-Words
 
